@@ -1,4 +1,4 @@
-FROM varmenise/docker-ssh-slave
+FROM varmenise/docker-sshd
 MAINTAINER valentina armenise, valentina.armenise@gmail.com
 
 # Create Jenkins user
